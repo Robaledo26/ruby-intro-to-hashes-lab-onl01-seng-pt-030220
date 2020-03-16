@@ -23,11 +23,7 @@ def monopoly_with_second_tier
 end
 
 def monopoly_with_third_tier
-	Monopoly = {:railroads=>
-	{
-	:piences=>4
-	:names=>
-	{
+
 	:pieces=>4,
 		:names=>
 		{
@@ -45,7 +41,6 @@ def monopoly_with_third_tier
 		}
 		}
 	}
-
 end
 
 def monopoly_with_fourth_tier
